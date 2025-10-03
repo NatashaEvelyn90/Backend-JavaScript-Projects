@@ -11,14 +11,14 @@ console.log (fahrenheit);
 
 //! Following Teacher instructions
 
-function tempConverter (temp, unit) {
-    var newTemp
+// function tempConverter (temp, unit) {
+//     var newTemp
 
-    if (unit == 'fah') {
-        newTemp = (temp -32) * 5 / 9
-    } else if (unit ==)
-}
+//     if (unit == 'fah') {
+//         newTemp = (temp -32) * 5 / 9
+//     } else if (unit ==)
+// }
 
-tempConverter(100, 'cel')
-tempConverter (86, 'fah')
-tempConverter(undefined, )
+// tempConverter(100, 'cel')
+// tempConverter (86, 'fah')
+// tempConverter(undefined, )
