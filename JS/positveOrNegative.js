@@ -23,3 +23,5 @@ positiveOrNegative(0)
 positiveOrNegative(-10)
 positiveOrNegative(7)
 positiveOrNegative('foo')
+
+//! Followed along with teacher 
